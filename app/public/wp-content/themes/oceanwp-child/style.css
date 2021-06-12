@@ -16,6 +16,7 @@ img[src$='.svg'] {
    height: auto;
 }
 
+/* CORE HTML ELEMENTS */
 h1 {
    color: #000 !important;
    font-size: 40px;
@@ -29,3 +30,9 @@ h2 {
 h3 {
    color: #000000 !important;
 }
+
+/* CUSTOM IDs */
+
+/* CUSTOM CLASSES */
+
+/* OVERRIDES */
