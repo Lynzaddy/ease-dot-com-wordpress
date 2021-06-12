@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="41" viewBox="0 0 40 41">
+  <defs>
+    <path id="hiTrustA" d="M0 .6h19.7V17H0z"/>
+    <path id="hiTrustC" d="M.7.6h19.8V17H.7z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#1F61DC" stroke-width="3" d="M31.2 13a11.5 11.5 0 1 1-23 0 11.5 11.5 0 0 1 23 0z"/>
+    <g transform="translate(0 23.7)">
+      <mask id="hiTrustB" fill="#fff">
+        <use xlink:href="#hiTrustA"/>
+      </mask>
+      <path fill="#FFA700" d="M16 4.8l-5.8 5.7-.4-3.3-3.3-.4 4.2-4.3a16 16 0 0 1-2.3-2L0 9l7.1.9L8 17 19.7 5.3a16 16 0 0 1-3.8-.5" mask="url(#hiTrustB)"/>
+    </g>
+    <g transform="translate(19 23.7)">
+      <mask id="hiTrustD" fill="#fff">
+        <use xlink:href="#hiTrustC"/>
+      </mask>
+      <path fill="#FFA700" d="M12 .6a16 16 0 0 1-2.3 1.9L14 6.8l-3.3.4-.4 3.3-5.8-5.7c-1.2.3-2.5.5-3.8.5L12.5 17l.9-7.1 7-.9L12 .6z" mask="url(#hiTrustD)"/>
+    </g>
+  </g>
+</svg>

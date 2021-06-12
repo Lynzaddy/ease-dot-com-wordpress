@@ -1,0 +1,30 @@
+/*
+Theme Name: Core Child Theme
+Theme URI: https://lynzaddy.com
+Template: oceanwp
+Author: Lynzaddy, LLC
+Author URI: https://lynzaddy.com
+Version: 2.0.4.1616899970
+Updated: 2021-03-28 02:52:50
+
+*/
+
+/* Needed to show SVGs within the theme */
+img[src$='.svg'] {
+   width: 100%;
+   height: auto;
+}
+
+h1 {
+   color: #000 !important;
+   font-size: 40px;
+}
+
+h2 {
+   color: #000 !important;
+   font-size: 25px;
+}
+
+h3 {
+   color: #000000 !important;
+}

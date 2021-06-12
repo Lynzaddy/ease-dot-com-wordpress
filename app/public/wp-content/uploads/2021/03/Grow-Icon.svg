@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87" height="78">
+  <g id="Page-1" fill="none" fill-rule="evenodd">
+    <g id="Homepage-at-wider-viewport" fill-rule="nonzero" transform="translate(-484 -2632)">
+      <g id="Value-Props" transform="translate(406 2625)">
+        <g id="Gain" transform="translate(0 7)">
+          <g id="Gain-Icon" transform="translate(82)">
+            <g id="Group-10" transform="translate(9)">
+              <path id="Line-3" stroke="#C9D9F7" stroke-linecap="square" stroke-width="6" d="M15.358 12.358V36.63"/>
+              <path id="Rectangle" fill="#C9D9F7" d="M5 5h20v20" transform="rotate(-45 15 15)"/>
+            </g>
+            <path id="Path-3" stroke="#FFA700" stroke-linecap="square" stroke-width="6" d="M4 73c7.662-6.96 16.141-9.272 25.436-6.934 9.296 2.338 17.018-1.054 23.167-10.176C58.9 47.402 67.698 44.992 79 48.66"/>
+            <path id="Path-3" stroke="#1F61DC" stroke-linecap="square" stroke-width="6" d="M0 58.5C6.387 42.201 14.948 36.701 25.683 42c10.735 5.299 18.373-.868 22.915-18.5C53.727 8.466 63.528 1.868 78 3.705"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

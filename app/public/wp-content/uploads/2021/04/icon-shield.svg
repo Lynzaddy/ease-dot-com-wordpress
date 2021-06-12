@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="39" viewBox="0 0 40 39">
+  <defs>
+    <path id="encryptionA" d="M0 .3h36V39H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#FFA700" stroke-width="3" d="M19.3 13.5l5.5 5.5-5.5 5.5M23 19H0"/>
+    <g transform="translate(4 -.3)">
+      <mask id="encryptionB" fill="#fff">
+        <use xlink:href="#encryptionA"/>
+      </mask>
+      <path fill="#1F61DC" d="M36 7.4L35.9 6h-1.4C24.7 6 20.9 2 19.8.3h-3.6C15.2 2 11.2 6 1.5 6H.1v1.4s-.2 3.2.5 7.4h3C3.2 12.3 3 10.2 3 9c8.7-.3 13-3.7 15-6 2 2.3 6.3 5.7 15 6 0 4.7-1.4 20.1-15 26.8A25 25 0 0 1 6.5 23.8H3.2a28 28 0 0 0 14.2 15l.6.2.6-.3C37.1 30.2 36 7.7 36 7.4" mask="url(#encryptionB)"/>
+    </g>
+  </g>
+</svg>

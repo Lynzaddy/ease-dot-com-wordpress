@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72">
+  <g id="Customer-Service" fill="none" fill-rule="evenodd">
+    <g id="Service" transform="translate(-1030 -2264)">
+      <g id="More-than-training" transform="translate(145 1707)">
+        <g id="Dedicated-Team" transform="translate(686 558)">
+          <g id="Dedicated-Team-Icon" transform="translate(200)">
+            <path id="Stroke-1" stroke="#1F61DC" stroke-width="3" d="M38 33.5C38 40.403 32.403 46 25.5 46S13 40.403 13 33.5 18.597 21 25.5 21 38 26.597 38 33.5z"/>
+            <path id="Stroke-3" stroke="#1F61DC" stroke-width="3" d="M.5 71c0-13.807 11.193-25 25-25s25 11.193 25 25"/>
+            <path id="Stroke-5" stroke="#1F61DC" stroke-width="3" d="M59.5 9.75a9.25 9.25 0 1 1-18.502-.002A9.25 9.25 0 0 1 59.5 9.75z"/>
+            <path id="Fill-7" fill="#1F61DC" d="M50.5 17.5c-4.763 0-9.14 1.646-12.624 4.382a16.934 16.934 0 0 1 1.857 2.35c2.973-2.33 6.705-3.732 10.767-3.732C60.149 20.5 68 28.351 68 38h3c0-11.304-9.196-20.5-20.5-20.5"/>
+            <path id="Stroke-9" stroke="#FFA700" stroke-width="3" d="M31.5 33.5a6 6 0 0 1-12 0"/>
+            <path id="Stroke-11" stroke="#C9D9F7" stroke-width="3" d="M13 71V59"/>
+            <path id="Stroke-13" stroke="#C9D9F7" stroke-width="3" d="M38 71V59"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

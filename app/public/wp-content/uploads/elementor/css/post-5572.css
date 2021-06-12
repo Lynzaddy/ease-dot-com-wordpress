@@ -1,0 +1,31 @@
+.elementor-5572 .elementor-element.elementor-element-77c05a4{text-align:left;}.elementor-5572 .elementor-element.elementor-element-77c05a4 .elementor-heading-title{font-family:"Harmonia", Sans-serif;line-height:1em;}.elementor-5572 .elementor-element.elementor-element-0ecbd6e .elementor-menu-toggle{margin:0 auto;}.elementor-5572 .elementor-element.elementor-element-491f6b3 .elementor-button{background-color:var( --e-global-color-985981c );}@media(min-width:768px){.elementor-5572 .elementor-element.elementor-element-8781357{width:22.014%;}.elementor-5572 .elementor-element.elementor-element-0d16c5f{width:60.58%;}.elementor-5572 .elementor-element.elementor-element-fbdd94e{width:17.383%;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Harmonia';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://ease.flywheelsites.com/wp-content/uploads/2021/05/harmoniasansstd-regular.eot');
+	src: url('https://ease.flywheelsites.com/wp-content/uploads/2021/05/harmoniasansstd-regular.eot?#iefix') format('embedded-opentype'),
+		url('https://ease.flywheelsites.com/wp-content/uploads/2021/05/harmoniasansstd-regular.woff') format('woff'),
+		url('https://ease.flywheelsites.com/wp-content/uploads/2021/05/harmoniasansstd-regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Harmonia';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://ease.flywheelsites.com/wp-content/uploads/2021/05/harmoniasansstd-semibd.eot');
+	src: url('https://ease.flywheelsites.com/wp-content/uploads/2021/05/harmoniasansstd-semibd.eot?#iefix') format('embedded-opentype'),
+		url('https://ease.flywheelsites.com/wp-content/uploads/2021/05/harmoniasansstd-semibd.woff2') format('woff2'),
+		url('https://ease.flywheelsites.com/wp-content/uploads/2021/05/harmoniasansstd-semibd.woff') format('woff');
+}
+@font-face {
+	font-family: 'Harmonia';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://ease.flywheelsites.com/wp-content/uploads/2021/05/harmoniasansstd-bold.eot');
+	src: url('https://ease.flywheelsites.com/wp-content/uploads/2021/05/harmoniasansstd-bold.eot?#iefix') format('embedded-opentype'),
+		url('https://ease.flywheelsites.com/wp-content/uploads/2021/05/harmoniasansstd-bold.woff2') format('woff2'),
+		url('https://ease.flywheelsites.com/wp-content/uploads/2021/05/harmoniasansstd-bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
